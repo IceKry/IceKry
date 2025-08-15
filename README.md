@@ -16,5 +16,15 @@ I help startups and businesses transform their ideas into scalable digital produ
 
 ## 🛠️ Tools & Technologies
 
+#### 📌 Languages
+
 ![Static Badge](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=gray)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 🖥️ Frameworks
+
+![Static Badge](https://img.shields.io/badge/nodejs-nodedotjs?style=for-the-badge&logo=nodedotjs&logoColor=%23FFF&color=%235FA04E)
+![Static Badge](https://img.shields.io/badge/react-react?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=%23165ba9)
+
+
+#### 🔧 Tools
