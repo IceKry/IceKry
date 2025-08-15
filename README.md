@@ -12,9 +12,7 @@ I help startups and businesses transform their ideas into scalable digital produ
 
 💻 Studying Systems Engineering
 
-<h3>Tools & Technologies</h3>
-
----
+## &nbsp; 🛠️ Tools & Technologies
 
 ![Static Badge](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=gray)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
