@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-I'm a Freelance Full Stack Developer
-I help startups and businesses transform their ideas into scalable digital products. With experience in building robust Web, Desktop and Mobile applications.
+I'm a Freelance Full Stack Developer.
+I like help startups and businesses transform their ideas into scalable digital products with my experience in building robust Web, Desktop and Mobile applications.
 
 💻 Studying Systems Engineering
 
