@@ -1,5 +1,5 @@
 <h3 align="center">
   Hi, I'm Yerick Aguilar / IceKry
-  <img src="https://i.pinimg.com/originals/6c/09/91/6c099165feb65415052244c59bee6614.gif" width="38">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUya3hiejB1ZzlhZWRsY3lkbzBzZmt1YTNsM2xlZGRudjVwZGU2enBnYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ztisqLhP99tVSHG136/source.gif" width="38">
 </h3>
 
