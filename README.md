@@ -4,5 +4,14 @@
 </h3>
 
 ---
+<h3>About Me</h3>
+---
+🚀 Freelance Full Stack Developer
+I help startups and businesses transform their ideas into scalable digital products. With experience in building robust Web, Desktop and Mobile applications.
 
+💻 Studying Systems Engineering
+
+<h3>Tools & Technologies</h3>
+---
+![Static Badge](https://img.shields.io/badge/javascript-javascript?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=gray)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
