@@ -4,6 +4,7 @@
 
 </div>
 
+![Static Badge](https://img.shields.io/badge/gmail-gmail?style=for-the-badge&logo=gmail&logoColor=%23FFF&color=%23d04c3b)
 
 
 ## 🚀 About Me
