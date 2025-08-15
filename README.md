@@ -4,9 +4,9 @@
 </h3>
 
 ---
-
 <h3>About Me</h3>
 ---
+
 🚀 Freelance Full Stack Developer
 I help startups and businesses transform their ideas into scalable digital products. With experience in building robust Web, Desktop and Mobile applications.
 
