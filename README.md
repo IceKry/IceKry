@@ -1,8 +1,6 @@
 <div align="center">
   
-# Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndiY2RtYmRvOWZkMDIydTczYjhtbW5qbnlwcmJqeDNvcXY4cXU3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Yerick Aguilar 
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV4emppMTk5bWZ1MHM2YmdnMTJsbHk1MzNndzFjNmcxOW13MW40ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fSAxCC2BDAmC9kxl0N/giphy.gif">
+# Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndiY2RtYmRvOWZkMDIydTczYjhtbW5qbnlwcmJqeDNvcXY4cXU3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Yerick Aguilar <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV4emppMTk5bWZ1MHM2YmdnMTJsbHk1MzNndzFjNmcxOW13MW40ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fSAxCC2BDAmC9kxl0N/giphy.gif" width="28">
 
 </div>
 
