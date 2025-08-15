@@ -9,7 +9,7 @@
 
 ___
 
-#### 🚀 Freelance Full Stack Developer
+&nbsp;🚀 Freelance Full Stack Developer
 I help startups and businesses transform their ideas into scalable digital products. With experience in building robust Web, Desktop and Mobile applications.
 
 💻 Studying Systems Engineering
